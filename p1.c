@@ -5,10 +5,9 @@ main(){
 	char s[11]={'h','e','l','l','o','w','o','r','l','d'};
 
 	for(i=0;i<11;i++){
-			if(s[i]>='a' && s[i]<='z'){
             s[i]=s[i]-32;
             printf("%c ",s[i]);	
-        }
+    }
 		
 	}
 

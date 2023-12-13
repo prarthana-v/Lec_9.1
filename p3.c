@@ -1,5 +1,5 @@
 //Write a Program to convert the given string in toggle case without using any string function.
-//Write a Program to convert the given string in uppercase without using any string function.
+
 #include<stdio.h>
 main(){
 	int i;
